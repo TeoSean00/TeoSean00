@@ -8,6 +8,8 @@
   <li>💓 I'm passionate about building Full-Stack products that bring meaning, benefits and a positive impact on its users</li>
 </ul>
 
+<img style="width: 50%; height: 100%;" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teosean) 
 
