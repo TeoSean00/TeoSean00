@@ -36,15 +36,18 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065297-21ba4259-fbc1-453a-b9cc-b4758dd5b65d.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/21715d57-3c15-4347-90e7-4565102cf89c" height="50" width="45" alt="prisma logo"  /></a>
 <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" width="45" alt="sqlalchemy logo"  /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233063868-d000a84c-9a0b-46cc-8318-24eafd79f82b.svg" height="40" width="40" alt="pandas library"  /></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233066088-a5762cb3-03a0-46e9-af86-619133f2d846.svg" height="40" width="40" alt="streamlit"  /></a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://konghq.com/products/kong-gateway" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065699-f369c97b-a568-484b-80cc-24d5476faf79.svg" alt="kong api gateway" width="50" height="48"/> </a>
+<a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/18b89cf7-bf11-4c36-baa0-2fced9deee0b" alt="planetscale" width="45" height="45"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/5ca0c07b-383e-45e2-9bae-6d01a69f6a46" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="45"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+<a href="https://konghq.com/products/kong-gateway" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065699-f369c97b-a568-484b-80cc-24d5476faf79.svg" alt="kong api gateway" width="50" height="48"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><br>
 
 ## 💻 Other Relevant Tech Skills:
@@ -54,6 +57,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></a>
+<a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/0a6b521a-7205-4d99-bc0f-1800a02a5fa7" alt="excalidraw" width="45" height="45"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  /> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233069651-43a841f1-c7e0-4215-a929-5f20ef902b1b.svg" width="40" height="40"/> </a>
