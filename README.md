@@ -20,15 +20,14 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233065004-9d3d6bf3-4136-4353-8397-b6f49fd70df8.svg" alt="nextjs" width="40" height="40" /></a>
-<a href="https://trpc.io/" target="__blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653969-f141f125-240d-4278-a0cf-28a76e0f5183.svg" alt="trpc" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="45"/> </a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="40" height="45"/> </a>
 <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233063250-1f0e3475-f5a2-42e9-95f7-33d75b15a0f3.svg" alt="ant design" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" width="40" alt="npm logo" /></a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="40"/> </a>
 <br>
 
 ## 💻 Backend Tech Stack:
@@ -42,24 +41,27 @@
 <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" width="45" alt="sqlalchemy logo"  /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233063868-d000a84c-9a0b-46cc-8318-24eafd79f82b.svg" height="40" width="40" alt="pandas library"  /></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233066088-a5762cb3-03a0-46e9-af86-619133f2d846.svg" height="40" width="40" alt="streamlit"  /></a>
-<a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615199-18b89cf7-bf11-4c36-baa0-2fced9deee0b.svg" alt="planetscale" width="45" height="45"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653676-8a624d0a-e4e9-4690-a0aa-a0675fd5523c.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
+<a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="37" height="37"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615199-18b89cf7-bf11-4c36-baa0-2fced9deee0b.svg" alt="planetscale" width="45" height="45"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615916-5ca0c07b-383e-45e2-9bae-6d01a69f6a46.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="45"/> </a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 <a href="https://konghq.com/products/kong-gateway" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065699-f369c97b-a568-484b-80cc-24d5476faf79.svg" alt="kong api gateway" width="50" height="50"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><br>
+<br>
 
 ## 💻 Other Relevant Tech Skills:
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  /> </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233069185-436a470e-024a-42b8-abe1-907f18b2bf2a.svg" height="40" width="40" alt="vercel logo"  /> </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" /></a>
+<a href="https://aws.amazon.com" target="__blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="35"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://swagger.io/tools/swagger-ui/" target="__blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246654099-175eac2e-4a4d-492f-b187-37fd91ea144b.svg" alt="swagger ui" width="45" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  /> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233069185-436a470e-024a-42b8-abe1-907f18b2bf2a.svg" height="40" width="40" alt="vercel logo"  /> </a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></a>
 <a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238621556-8b7b081d-3b9b-4c65-a817-957821b987d5.svg" alt="excalidraw" width="45" height="45"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
