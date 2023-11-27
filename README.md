@@ -4,7 +4,7 @@
   <li>👋 I'm Teo Sean</li>
   <li>🏫 I'm a Penultimate Student at Singapore Management University (SMU)</li>
   <li>💻 I'm pursuing a Bachelor of Science (Information Systems), Majoring in Digitalization and Cloud Solutions</li>
-  <li>💓 I'm passionate about building secure, performant and scalable Full-Stack Products/Software Solutions that bring meaning, benefits and ultimately, a positive impact on the users</li>
+  <li>💓 I'm passionate about building user-centric, secure and scalable Full-Stack Solutions that ultimately create a positive impact for the users</li>
 </ul>
 
 <img style="width: 50%; height: 100%;" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
