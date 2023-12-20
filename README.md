@@ -49,8 +49,10 @@
 <a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615199-18b89cf7-bf11-4c36-baa0-2fced9deee0b.svg" alt="planetscale" width="45" height="45"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615916-5ca0c07b-383e-45e2-9bae-6d01a69f6a46.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="45"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="38" height="38"/> </a>
 <a href="https://konghq.com/products/kong-gateway" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065699-f369c97b-a568-484b-80cc-24d5476faf79.svg" alt="kong api gateway" width="50" height="50"/> </a>
+<a href="https://docs.pytest.org/en/7.4.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/0e7e6189-790f-49c3-8c3f-0717f09f1516" alt="pytest" width="42" height="42"/> </a>
+<a href="https://pypi.org/project/requests/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/a4e26b9b-35a0-454f-945f-9ca41a1ef5b1" alt="requests library" width="40" height="40"/> </a>
 <br>
 
 ## 💻 Other Relevant Tech Skills:
@@ -72,12 +74,3 @@
 ## 📊 GitHub Stats:
 ### You are visitor number: &nbsp; <img src="https://profile-counter.glitch.me/TeoSean00/count.svg?" width="300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeoSean00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="210" alt="languages graph" /> <br>
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=TeoSean00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph" /> <br>
-<img src="https://streak-stats.demolab.com?user=TeoSean00&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=6&order=3" height="180" alt="streak graph"  /> -->
-
-<!-- older tech stack versions: -->
-<!-- [![](https://visitcount.itsvg.in/api?id=TeoSean00&icon=0&color=6)](https://visitcount.itsvg.in)<br/>
-![](https://github-readme-stats.vercel.app/api?username=TeoSean00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TeoSean00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoSean00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
