@@ -2,7 +2,7 @@
 ## 💫 About Me:
 <ul>
   <li>👋 I'm Teo Sean</li>
-  <li>🏫 I'm a Penultimate Student at Singapore Management University (SMU)</li>
+  <li>🏫 I'm a Final Year Student at Singapore Management University (SMU)</li>
   <li>💻 I'm pursuing a Bachelor of Science (Information Systems), Majoring in Digitalization and Cloud Solutions</li>
   <li>💓 I'm passionate about building user-centric, secure and scalable Full-Stack Solutions that ultimately create a positive impact for the users</li>
 </ul>
@@ -18,38 +18,32 @@
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233062652-93382e8c-6bf7-44e8-8682-b7e1d182787d.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233065004-9d3d6bf3-4136-4353-8397-b6f49fd70df8.svg" alt="nextjs" width="40" height="40" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="39" height="39"/> </a>
+<a href="https://mobx.js.org/README.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/955eff7f-6e43-46ba-b014-7c567d5265a6" alt="mobx" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/73a1dc52-8114-4e67-aa95-4893022d6c01" alt="redux" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="45"/> </a>
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="40" height="45"/> </a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233063250-1f0e3475-f5a2-42e9-95f7-33d75b15a0f3.svg" alt="ant design" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="40"/> </a>
+<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="38" height="38"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45"/> </a>
 <br>
 
 ## 💻 Backend Tech Stack:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0e4c69a3-b67c-46cc-8da0-fd6f90565dde" alt="c#" width="39" height="39"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653479-b6577942-5930-40da-a407-de9ecba1aa5f.svg" alt="FastAPI" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065297-21ba4259-fbc1-453a-b9cc-b4758dd5b65d.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.prisma.io/" target="__blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238614330-21715d57-3c15-4347-90e7-4565102cf89c.svg" height="50" width="50" alt="prisma logo"  /> </a>
-<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" width="45" alt="sqlalchemy logo"  /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233063868-d000a84c-9a0b-46cc-8318-24eafd79f82b.svg" height="40" width="40" alt="pandas library"  /></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233066088-a5762cb3-03a0-46e9-af86-619133f2d846.svg" height="40" width="40" alt="streamlit"  /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653676-8a624d0a-e4e9-4690-a0aa-a0675fd5523c.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
-<a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="37" height="37"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615199-18b89cf7-bf11-4c36-baa0-2fced9deee0b.svg" alt="planetscale" width="45" height="45"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615916-5ca0c07b-383e-45e2-9bae-6d01a69f6a46.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="45"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="38" height="38"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="37" height="37"/> </a>
 <a href="https://konghq.com/products/kong-gateway" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065699-f369c97b-a568-484b-80cc-24d5476faf79.svg" alt="kong api gateway" width="50" height="50"/> </a>
 <a href="https://docs.pytest.org/en/7.4.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/0e7e6189-790f-49c3-8c3f-0717f09f1516" alt="pytest" width="42" height="42"/> </a>
 <a href="https://pypi.org/project/requests/" target="_blank" rel="noreferrer"> <img src="https://github.com/TeoSean00/TeoSean00/assets/79046481/a4e26b9b-35a0-454f-945f-9ca41a1ef5b1" alt="requests library" width="40" height="40"/> </a>
@@ -65,11 +59,12 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233069185-436a470e-024a-42b8-abe1-907f18b2bf2a.svg" height="40" width="40" alt="vercel logo"  /> </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></a>
-<a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238621556-8b7b081d-3b9b-4c65-a817-957821b987d5.svg" alt="excalidraw" width="45" height="45"/> </a>
+<a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/1c0e7de8-f507-4767-8198-900320a33a93" alt="excalidraw" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  /> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233069651-43a841f1-c7e0-4215-a929-5f20ef902b1b.svg" width="40" height="40"/> </a>
-<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  /> </a><br>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" width="40" alt="canva logo"  /> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233069651-43a841f1-c7e0-4215-a929-5f20ef902b1b.svg" width="38" height="40"/> </a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="40" alt="slack logo"  /> </a>
+<br>
 
 ## 📊 GitHub Stats:
 ### You are visitor number: &nbsp; <img src="https://profile-counter.glitch.me/TeoSean00/count.svg?" width="300"/>
