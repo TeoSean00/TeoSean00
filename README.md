@@ -53,11 +53,11 @@
 <a href="https://aws.amazon.com" target="__blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="35"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://swagger.io/tools/swagger-ui/" target="__blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246654099-175eac2e-4a4d-492f-b187-37fd91ea144b.svg" alt="swagger ui" width="45" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ef3fb6d4-5e98-4011-8085-ecda6aad8f43" alt="postman" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  /> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233069185-436a470e-024a-42b8-abe1-907f18b2bf2a.svg" height="40" width="40" alt="vercel logo"  /> </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/49bd485b-8dfb-4d80-88bf-a3c0da365e8f" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></a>
 <a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/1c0e7de8-f507-4767-8198-900320a33a93" alt="excalidraw" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
